@@ -5,7 +5,7 @@
 Sete desafios propostos pela plataforma Alura envolvendo Github e seus comandos. São eles:
 
 1. Criar um repositório no Github :heavy_check_mark:
-2. Adicionar um projeto no repositório
+2. Adicionar um projeto no repositório :heavy_check_mark:
 3. Clonar um repositório
 4. Realizar um commit a partir do VSCode
 5. Reverter um commit
