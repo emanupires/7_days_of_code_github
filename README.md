@@ -8,9 +8,6 @@ Sete desafios propostos pela plataforma Alura envolvendo Github e seus comandos.
 2. Adicionar um projeto no repositório :heavy_check_mark:
 3. Clonar um repositório :heavy_check_mark:
 4. Realizar um commit a partir do VSCode :heavy_check_mark:
-5. Reverter um commit
-6. Resolver um conflito
-7. Fazer deploy no Github Pages
-
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
+5. Reverter um commit :heavy_check_mark:
+6. Resolver um conflito :heavy_check_mark:
+7. Fazer deploy no Github Pages :heavy_check_mark:
